@@ -33,7 +33,4 @@
     <img align="center" title="MySQL" alt="Imagem-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
   <a href="https://www.postgresql.org/">
     <img align="center" title="PostgreSQL" alt="Imagem-PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></a>
-</div><br>
-
-<p align="center"> Contador de visitas desde 04/03/2022 </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Hugo0307/count.svg" /></p>
+</div>
