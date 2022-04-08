@@ -3,7 +3,7 @@
 ### Sou o Hugo Henrique, em constante desenvolvimento.
 
 - 🔭 Trabalho no desenvolvimento web com a stack Java
-- 🌱 Sou aluno no curso Full Stack Certified Tech Developer da Digital House Coding School
+- 🌱 Sigo estudando programação em cursos livres e bootcamps
 - 😄 Pronome: Ele/Dele
 
 ##
